@@ -5,5 +5,5 @@ sqlalchemy
 pytz
 python-multipart
 aiofiles
-httpx
 pytest
+httpx
